@@ -1,7 +1,30 @@
-# depromeet-9-6-backend
+# depromeet-9-6-backend(article-reminder?)
 디프만 9기 6조 백엔드
-
-- 프로젝트명 기획 회의 fixed 시 변경 예정
 - 6조 : https://www.notion.so/depromeet/6-7508bdb9345c45a4a6836e446f35a7a9 
 - 20210327_아이디어 회의 https://www.notion.so/depromeet/3-27-12320b2b806849d8a00d99240e5472d9
 - 기술스택 회의 https://www.notion.so/depromeet/Backend-7bd3b3b7934c47c8b8373d4c92bc2aa6
+
+사용 기술
+---
+- Spring-boot
+- Java
+- Junit
+- Swagger
+- mysql
+- jpa
+- Gradle Project
+
+요구 사항
+---
+- 소셜 로그인 Oauth2.0 (카카오, 네이버)정도 로그인?
+- 링크 저장 
+- 해시 태그 필터링 및 카테고리 기능
+- 알람
+- 아티클 완료시 레벨 설정
+- 추천 아티클 개인화 아티클로 최근 관심있게 태그한 카테고리 위주로 앱 상단에 조회
+ 
+UML
+---
+
+ERD
+---
