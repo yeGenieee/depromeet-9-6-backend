@@ -37,6 +37,5 @@ UML
 
 ERD
 ---
-URL : https://aquerytool.com:443/aquerymain/index/?rurl=cc058bd9-e723-4605-9033-68012ac7877c&
-Password : 1d2ax0
-비번: 
+- URL : https://aquerytool.com:443/aquerymain/index/?rurl=cc058bd9-e723-4605-9033-68012ac7877c&
+- Password : 1d2ax0 
