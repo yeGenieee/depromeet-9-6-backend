@@ -1,8 +1,11 @@
 package com.depromeet.articlereminder.domain;
 
+import lombok.Data;
+
 import javax.persistence.*;
 
 @Entity
+@Data
 public class Member {
 
     @Id
