@@ -2,6 +2,7 @@ package com.depromeet.articlereminder.controller;
 
 import com.depromeet.articlereminder.domain.Member;
 import com.depromeet.articlereminder.service.MemberService;
+import io.swagger.annotations.Api;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
@@ -9,6 +10,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import javax.validation.Valid;
 
+@Api(tags = {"members"})
 @Controller
 @RequiredArgsConstructor
 public class MemberController {
