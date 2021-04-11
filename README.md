@@ -36,8 +36,7 @@
 UML
 ---
 
-ERD (아직 수정 완료 버전 아니에요!!)
+ERD
 ---
 
-[comment]: <> (![image]&#40;https://user-images.githubusercontent.com/61732452/113483724-e1b0a480-94df-11eb-9b3b-26e3e9db7d01.png&#41;)
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/39fe33d4-6c65-4525-aae6-bc986e350fdb/Link_collector_real_20210408_23_01.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210407%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210407T222438Z&X-Amz-Expires=86400&X-Amz-Signature=8e151fd979e6955eff3d96502882cddf05d2f2791c81d4c4e7fbba3c9b9b901c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Link_collector_real_20210408_23_01.png%22)
+![링줍ERD](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d86d3611-3863-4e5f-9911-4df81573e883/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210411%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210411T122535Z&X-Amz-Expires=86400&X-Amz-Signature=6d29dbc0a2a103ea0315a54fef6c6c0812e852a1b6aceede8875cc19e59da619&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
