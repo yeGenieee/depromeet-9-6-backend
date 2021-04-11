@@ -12,6 +12,7 @@
 - mysql
 - jpa
 - Gradle Project
+- H2 Database
 
 요구 사항
 ---
@@ -32,9 +33,18 @@
 - 푸시 알림
 - 리워드
 - 추천 아티클
- 
+
+H2 Database
+---
+http://localhost:8080/h2-console/
+
+Swagger
+---
+http://localhost:8080/swagger-ui.html
+
 UML
 ---
+https://www.notion.so/depromeet/Sequence-Diagram-e7f80df08f5149ddbccd9b9af13e8f7e
 
 ERD
 ---
