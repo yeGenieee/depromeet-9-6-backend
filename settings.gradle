@@ -1,1 +1,5 @@
 rootProject.name = 'article-reminder'
+include 'batch'
+include 'core'
+include 'api'
+
