@@ -31,4 +31,5 @@ public class KakaoOAuth2UserService extends DefaultOAuth2UserService {
 
         return new DefaultOAuth2User(Collections.singleton(new SimpleGrantedAuthority("ROLE_USER")), attributes, "id");
     }
+
 }
